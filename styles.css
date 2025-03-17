@@ -1,0 +1,26 @@
+h2 {
+    color: red; 
+}
+h1 {
+    color: green;
+}
+
+.whiteLink {
+  color: white;
+}
+
+header {
+  text-align: center;
+  background: url('https://lh3.googleusercontent.com/d/12rlHS_3iJiwxQm8iQgdoTS4U_M4rPNL_');
+
+  color: white;
+}
+
+.special {
+  display: inline; 
+  padding: 0px 10px 0px 10px;
+}
+article {
+  max-width: 500px;
+  padding: 0px 10px 0px 10px;
+}
