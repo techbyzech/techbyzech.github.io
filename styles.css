@@ -1,64 +1,55 @@
 h2 {
     text-align: center;
     color: black; 
-        font-size: 70px;
-           font-family: "Caveat", serif;
+    font-size: 70px;
+    font-family: "Caveat", serif;
 }
 h1 {
     color: black;
     font-size: 40px;
-           font-family: "Caveat", serif;
+    font-family: "Caveat", serif;
 }
 
 .whiteLink {
-  color: white;
+    color: white;
 }
-
-    header {
-            
-      text-align: center;
-      background: url('sad');
-      background-size: cover;
-      color: white;
-      padding: 20px 0px 0px 0px;
-    }
-      
-    
-
-
-
-.special {
-  display: inline; 
-  padding: 0px 10px 0px 10px;
+header {    
+    text-align: center;
+    background: url('sad');
+    background-size: cover;
+    color: white;
+    padding: 20px 0px 0px 0px;
 }
 article {
-  max-width: 500px;
-  padding: 0px 10px 0px 10px;
+    max-width: 500px;
+    padding: 0px 10px 0px 10px;
+    padding: 20px;
+    margin: 0 auto;
 }
 
 body {
     background-color:rgb(50, 131, 168);
 }
 
-ul {
-      padding: 0px 10px 0px 10px;
-}
-
-li {
+.Sa {
     display: inline;
-      padding: 0px 10px 0px 10px;
+    padding: 10px
 }
 
-    .headerline {
-      padding: 8px;
-      background: rgba(0,0,0,20);
-       
-    }
-  .topHeader {
-      display: inline;
-      padding: 0px 10px 0px 10px;
-      
-    }
+.Sli {
+    color:white;
+    display:inline;
+    padding: 0px 10px 0px 0px;
+}
+.Sul {
+    padding: 8px;
+    background: rgba(0,0,0,20);
+   
+}
+.topHeader {
+    display: inline;
+    padding: 0px 10px 0px 10px;
+  }
 
 p {
     color: white;
@@ -70,8 +61,3 @@ a {
     text-align: center;
 }
 
-    article {
-      max-width: 500px;
-      padding: 20px;
-      margin: 0 auto;
-    }
