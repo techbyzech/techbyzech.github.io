@@ -12,15 +12,16 @@ h1 {
   color: white;
 }
 
-header {
-  text-align: center;
-    background:
-    background-size: cover;
-    padding: 20px 0px 0px 0px }
+    header {
+      text-align: center;
+      background: url('sad');
+      background-size:cover;
+      color: white;
+            padding: 20px 0px 0px 0px }
+      
+    }
 
 
-  color: white;
-}
 
 .special {
   display: inline; 
